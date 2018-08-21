@@ -1,0 +1,26 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "9.4.0",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krieger21/Emaily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krieger21/Emaily/issues"
+  },
+  "homepage": "https://github.com/Krieger21/Emaily#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
