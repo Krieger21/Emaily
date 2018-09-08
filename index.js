@@ -17,9 +17,9 @@ app.use(
 app.use(passport.initialize())
 app.use(passport.session())
 
-mongoose.connect(keys.mongoURI)
-
 const PORT = process.env.PORT || 5000
+
+mongoose.connect(keys.mongoURI)
 
 require("./routes/authRoutes.js")(app)
 
