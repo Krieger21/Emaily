@@ -1,1 +1,1 @@
-# Emaily
+Emaily is a service where customers can create custom surveys to send out to their user base through email. Each survey sent will cost the customer a certain amount of credits which they can purchase with their credit cards. The responses to said surveys will be logged in a profile for each user on our database, and this information will be shared with our customer.
